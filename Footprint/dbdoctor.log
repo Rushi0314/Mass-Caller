@@ -1,0 +1,24 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    DBDOCTOR                                                         )
+(                                                                     )
+(    Drawing          : gsm.brd                                       )
+(    Software Version : 23.1P001                                      )
+(    Date/Time        : Sat Mar 15 17:26:00 2025                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+
+ERROR: in LINE (-14.2800 25.4750) - (14.2300 25.4750)
+  class = PACKAGE GEOMETRY
+  subclass = SILKSCREEN_TOP 
+  Part of Symbol Def MODULE_ESP32_DEVKIT.
+  ERROR(SPMHA1-415): Line segments cannot overlap.
+
+ERROR: in LINE (45.4200 -3.2250) - (73.9300 -3.2250)
+  class = PACKAGE GEOMETRY
+  subclass = SILKSCREEN_TOP 
+  ERROR(SPMHA1-415): Line segments cannot overlap.
+
+0 warnings, 2 errors detected, 0 errors could be fixed.

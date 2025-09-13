@@ -1,0 +1,64 @@
+\t (00:00:08) allegro 23.1 P001 Windows SPB 64-bit Edition
+\t (00:00:08)     Journal start - Fri May  9 22:31:21 2025
+\t (00:00:08)         Host=RUSHI User=Rushi Pid=22492 CPUs=12
+\t (00:00:08) CmdLine= c:\cadence\spb_23.1\tools\bin\allegro.exe D:\Apsis Solution\Project\Automated_Caller\Footprint\gsm.brd
+\t (00:00:08) 
+   (00:00:08) Loading axlcore.cxt 
+\t (00:00:11) Opening existing design...
+\i (00:00:11) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged gsm
+\d (00:00:11) Design opened: D:/Apsis Solution/Project/Automated_Caller/Footprint/gsm.brd
+\i (00:00:11) trapsize 11398
+\i (00:00:11) trapsize 11757
+\i (00:00:11) trapsize 11398
+\i (00:00:12) trapsize 7979
+\i (00:00:12) trapsize 7979
+\i (00:00:12) generaledit 
+\i (00:00:14) zoom out 1 
+\i (00:00:14) setwindow pcb
+\i (00:00:14) zoom out 69.9872 -37.2241
+\i (00:00:14) trapsize 15957
+\i (00:00:14) zoom out 1 
+\i (00:00:14) setwindow pcb
+\i (00:00:14) zoom out 109.6813 -7.7030
+\i (00:00:14) trapsize 26371
+\i (00:00:17) zoom in 1 
+\i (00:00:17) setwindow pcb
+\i (00:00:17) zoom in 51.0391 -85.8752
+\i (00:00:17) trapsize 13186
+\i (00:00:17) zoom in 1 
+\i (00:00:17) setwindow pcb
+\i (00:00:17) zoom in 17.0200 -85.8752
+\i (00:00:17) trapsize 6593
+\i (00:00:17) zoom in 1 
+\i (00:00:17) setwindow pcb
+\i (00:00:17) zoom in 17.0201 -85.8752
+\i (00:00:17) trapsize 3296
+\i (00:00:19) zoom out 1 
+\i (00:00:19) setwindow pcb
+\i (00:00:19) zoom out 17.0201 -85.8752
+\i (00:00:19) trapsize 6593
+\i (00:00:19) zoom out 1 
+\i (00:00:19) setwindow pcb
+\i (00:00:19) zoom out 17.0201 -85.8752
+\i (00:00:19) trapsize 13186
+\i (00:00:19) zoom in 1 
+\i (00:00:19) setwindow pcb
+\i (00:00:19) zoom in 17.0200 -85.8752
+\i (00:00:19) trapsize 6593
+\i (00:00:19) zoom in 1 
+\i (00:00:19) setwindow pcb
+\i (00:00:19) zoom in 17.0200 -85.8752
+\i (00:00:19) trapsize 3296
+\i (00:00:20) prepopup 17.0200 -85.8752
+\i (00:00:24) pick grid 33.6999 -78.7549
+\t (00:00:24) last pick:  33.7000 -78.8000
+\i (00:00:25) roam y -96 
+\i (00:00:25) roam y -96
+\i (00:00:26) roam y -96 
+\i (00:00:26) roam y -96
+\i (00:00:26) roam y -96 
+\i (00:00:26) roam y -96
+\i (00:00:26) roam y -96 
+\i (00:00:26) roam y -96
+\i (00:05:13) exit 
+\t (00:05:13)     Journal end - Fri May  9 22:36:26 2025

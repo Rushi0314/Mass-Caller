@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : Th_Inductor.dra                               )
+(    Software Version : 23.1S001                                      )
+(    Date/Time        : Tue Aug 27 08:00:16 2024                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = C:/Manukumar_T[1]/Manukumar T/Iot_Lab_Kit/Footprints
+    Name      = th_inductor.psm
+    User      = DELL-ORCAD
+    Machine   = DESKTOP-GLHVLG2
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

@@ -1,0 +1,60 @@
+(ExpressProject "Automated_Caller"
+  (ProjectVersion "19981106")
+  (SoftwareVersion "23.1 P001 (4147275)  [9/30/2023]-[03/10/25]")
+  (ProjectType "PCB")
+  (Folder "Design Resources"
+    (Folder "Library")
+    ("Allegro Netlist Directory" "allegro")
+    (DOCKED "TRUE")
+    (DOCKING_POSITION "59420")
+    (NoModify)
+    (File ".\automated_caller.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    (Board_sim_option "VHDL_flow"))
+  (Folder "Layout")
+  (Folder "Outputs")
+  (Folder "Referenced Projects")
+  (Folder "PSpice Resources"
+    (Folder "Simulation Profiles")
+    (Folder "Model Libraries"
+      (Sort User))
+    (Folder "Stimulus Files"
+      (Sort User))
+    (Folder "Include Files"
+      (Sort User)))
+  (Folder "Logs")
+  (PartMRUSelector)
+  (MPSSessionName "Rushi")
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources" ".\automated_caller.dsn")
+      (Path "Design Resources" ".\automated_caller.dsn" "SCHEMATIC1"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 0 200 0 747"))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 2 3 -1 -1 5 24 5 1674 24 765")
+        (Scroll "-304 0")
+        (Zoom "88")
+        (Occurrence "/"))
+      (Path "D:\APSIS SOLUTION\AUTOMATED_CALLER\SCHEMATIC\AUTOMATED_CALLER.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "PAGE1"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 5 24 5 1674 24 765")
+        (Scroll "-234 0")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path "D:\APSIS SOLUTION\AUTOMATED_CALLER\SCHEMATIC\AUTOMATED_CALLER.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "PAGE2"))))

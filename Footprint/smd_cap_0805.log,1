@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : smd_cap_0805.dra                              )
+(    Software Version : 23.1S001                                      )
+(    Date/Time        : Thu Aug  1 00:01:54 2024                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = C:/Manukumar_T[1]/Manukumar T/Iot_Lab_Kit/Footprints
+    Name      = smd_cap_0805.psm
+    User      = DELL-ORCAD
+    Machine   = DESKTOP-GLHVLG2
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

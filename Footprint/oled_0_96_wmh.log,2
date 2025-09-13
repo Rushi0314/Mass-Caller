@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : oled_0_96_WMH.dra                             )
+(    Software Version : 23.1S001                                      )
+(    Date/Time        : Thu Aug  1 00:12:18 2024                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = C:/Manukumar_T[1]/Manukumar T/Iot_Lab_Kit/Footprints
+    Name      = oled_0_96_wmh.psm
+    User      = DELL-ORCAD
+    Machine   = DESKTOP-GLHVLG2
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

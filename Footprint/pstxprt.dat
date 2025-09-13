@@ -1,0 +1,538 @@
+FILE_TYPE = EXPANDEDPARTLIST;
+{ Using PSTWRITER 23.1.0 d001Mar-14-2025 at 13:35:45 }
+DIRECTIVES
+ PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
+ ROOT_DRAWING='AUTOMATED_CALLER';
+ POST_TIME='Sep 29 2023 23:54:04';
+ SOURCE_TOOL='CAPTURE_WRITER';
+END_DIRECTIVES;
+
+PART_NAME
+ C1 'CAPACITOR NON-POL_SMD_CAP_0805_0.1UF':;
+
+SECTION_NUMBER 1
+ '@AUTOMATED_CALLER.AUTOMATIC_CALLER(SCH_1):INS2864616@DISCRETE.CAPACITOR NON-POL.NORMAL(CHIPS)':
+ C_PATH='@automated_caller.automatic_caller(sch_1):ins2864616@discrete.\capacitor non-pol.normal\(chips)',
+ P_PATH='@automated_caller.automatic_caller(sch_1):page3_ins2864616@discrete.\capacitor non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(140,155)',
+ SECTION='';
+
+PART_NAME
+ C10 'CAP NP_SMD_CAP_0805_0.1UF':;
+
+SECTION_NUMBER 1
+ '@AUTOMATED_CALLER.AUTOMATIC_CALLER(SCH_1):INS2864883@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@automated_caller.automatic_caller(sch_1):ins2864883@discrete.\cap np.normal\(chips)',
+ P_PATH='@automated_caller.automatic_caller(sch_1):page3_ins2864883@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1025,440)',
+ SECTION='';
+
+PART_NAME
+ C11 'CAPACITOR_CAP_TH_1000_100UF/25V/TH':;
+
+SECTION_NUMBER 1
+ '@AUTOMATED_CALLER.AUTOMATIC_CALLER(SCH_1):INS2860930@DISCRETE.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@automated_caller.automatic_caller(sch_1):ins2860930@discrete.\capacitor.normal\(chips)',
+ P_PATH='@automated_caller.automatic_caller(sch_1):page3_ins2860930@discrete.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(285,660)',
+ SECTION='';
+
+PART_NAME
+ C12 'CAPACITOR_CAP_TH_1000_1000UF/16V/TH':;
+
+SECTION_NUMBER 1
+ '@AUTOMATED_CALLER.AUTOMATIC_CALLER(SCH_1):INS2860966@DISCRETE.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@automated_caller.automatic_caller(sch_1):ins2860966@discrete.\capacitor.normal\(chips)',
+ P_PATH='@automated_caller.automatic_caller(sch_1):page3_ins2860966@discrete.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(625,665)',
+ SECTION='';
+
+PART_NAME
+ C2 'CAPACITOR NON-POL_SMD_CAP_0805_0.1UF':;
+
+SECTION_NUMBER 1
+ '@AUTOMATED_CALLER.AUTOMATIC_CALLER(SCH_1):INS2865399@DISCRETE.CAPACITOR NON-POL.NORMAL(CHIPS)':
+ C_PATH='@automated_caller.automatic_caller(sch_1):ins2865399@discrete.\capacitor non-pol.normal\(chips)',
+ P_PATH='@automated_caller.automatic_caller(sch_1):page3_ins2865399@discrete.\capacitor non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(355,160)',
+ SECTION='';
+
+PART_NAME
+ C3 'CAPACITOR NON-POL_SMD_CAP_0805_0.1UF':;
+
+SECTION_NUMBER 1
+ '@AUTOMATED_CALLER.AUTOMATIC_CALLER(SCH_1):INS2865689@DISCRETE.CAPACITOR NON-POL.NORMAL(CHIPS)':
+ C_PATH='@automated_caller.automatic_caller(sch_1):ins2865689@discrete.\capacitor non-pol.normal\(chips)',
+ P_PATH='@automated_caller.automatic_caller(sch_1):page3_ins2865689@discrete.\capacitor non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(575,160)',
+ SECTION='';
+
+PART_NAME
+ C4 'CAPACITOR NON-POL_SMD_CAP_0805_0.1UF':;
+
+SECTION_NUMBER 1
+ '@AUTOMATED_CALLER.AUTOMATIC_CALLER(SCH_1):INS2865994@DISCRETE.CAPACITOR NON-POL.NORMAL(CHIPS)':
+ C_PATH='@automated_caller.automatic_caller(sch_1):ins2865994@discrete.\capacitor non-pol.normal\(chips)',
+ P_PATH='@automated_caller.automatic_caller(sch_1):page3_ins2865994@discrete.\capacitor non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(785,160)',
+ SECTION='';
+
+PART_NAME
+ C5 'CAPACITOR NON-POL_SMD_CAP_0805_0.1UF':;
+
+SECTION_NUMBER 1
+ '@AUTOMATED_CALLER.AUTOMATIC_CALLER(SCH_1):INS2866307@DISCRETE.CAPACITOR NON-POL.NORMAL(CHIPS)':
+ C_PATH='@automated_caller.automatic_caller(sch_1):ins2866307@discrete.\capacitor non-pol.normal\(chips)',
+ P_PATH='@automated_caller.automatic_caller(sch_1):page3_ins2866307@discrete.\capacitor non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1005,160)',
+ SECTION='';
+
+PART_NAME
+ C6 'CAPACITOR NON-POL_SMD_CAP_0805_0.1UF':;
+
+SECTION_NUMBER 1
+ '@AUTOMATED_CALLER.AUTOMATIC_CALLER(SCH_1):INS2873547@DISCRETE.CAPACITOR NON-POL.NORMAL(CHIPS)':
+ C_PATH='@automated_caller.automatic_caller(sch_1):ins2873547@discrete.\capacitor non-pol.normal\(chips)',
+ P_PATH='@automated_caller.automatic_caller(sch_1):page3_ins2873547@discrete.\capacitor non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(140,385)',
+ SECTION='';
+
+PART_NAME
+ C7 'CAPACITOR NON-POL_SMD_CAP_0805_0.1UF':;
+
+SECTION_NUMBER 1
+ '@AUTOMATED_CALLER.AUTOMATIC_CALLER(SCH_1):INS2873879@DISCRETE.CAPACITOR NON-POL.NORMAL(CHIPS)':
+ C_PATH='@automated_caller.automatic_caller(sch_1):ins2873879@discrete.\capacitor non-pol.normal\(chips)',
+ P_PATH='@automated_caller.automatic_caller(sch_1):page3_ins2873879@discrete.\capacitor non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(365,385)',
+ SECTION='';
+
+PART_NAME
+ C8 'CAPACITOR NON-POL_SMD_CAP_0805_0.1UF':;
+
+SECTION_NUMBER 1
+ '@AUTOMATED_CALLER.AUTOMATIC_CALLER(SCH_1):INS2874223@DISCRETE.CAPACITOR NON-POL.NORMAL(CHIPS)':
+ C_PATH='@automated_caller.automatic_caller(sch_1):ins2874223@discrete.\capacitor non-pol.normal\(chips)',
+ P_PATH='@automated_caller.automatic_caller(sch_1):page3_ins2874223@discrete.\capacitor non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(595,385)',
+ SECTION='';
+
+PART_NAME
+ C9 'CAP_TH_CAPACITOR_47UF/10V':;
+
+SECTION_NUMBER 1
+ '@AUTOMATED_CALLER.AUTOMATIC_CALLER(SCH_1):INS2864899@DISCRETE.CAP.NORMAL(CHIPS)':
+ C_PATH='@automated_caller.automatic_caller(sch_1):ins2864899@discrete.\cap.normal\(chips)',
+ P_PATH='@automated_caller.automatic_caller(sch_1):page3_ins2864899@discrete.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(980,445)',
+ SECTION='';
+
+PART_NAME
+ D1 'DIODE_DIODE_SMD_WITH_SS_M7':;
+
+SECTION_NUMBER 1
+ '@AUTOMATED_CALLER.AUTOMATIC_CALLER(SCH_1):INS2860768@DISCRETE.DIODE.NORMAL(CHIPS)':
+ C_PATH='@automated_caller.automatic_caller(sch_1):ins2860768@discrete.\diode.normal\(chips)',
+ P_PATH='@automated_caller.automatic_caller(sch_1):page3_ins2860768@discrete.\diode.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(205,605)',
+ SECTION='';
+
+PART_NAME
+ D2 'DIODE ZENER_DIODE_SMD_WITH_SS_SS34':;
+
+SECTION_NUMBER 1
+ '@AUTOMATED_CALLER.AUTOMATIC_CALLER(SCH_1):INS2860950@DISCRETE.DIODE ZENER.NORMAL(CHIPS)':
+ C_PATH='@automated_caller.automatic_caller(sch_1):ins2860950@discrete.\diode zener.normal\(chips)',
+ P_PATH='@automated_caller.automatic_caller(sch_1):page3_ins2860950@discrete.\diode zener.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(505,655)',
+ SECTION='';
+
+PART_NAME
+ D3 'LED_LED_5MM_LED':;
+
+SECTION_NUMBER 1
+ '@AUTOMATED_CALLER.AUTOMATIC_CALLER(SCH_1):INS2875830@DISCRETE.LED.NORMAL(CHIPS)':
+ C_PATH='@automated_caller.automatic_caller(sch_1):ins2875830@discrete.\led.normal\(chips)',
+ P_PATH='@automated_caller.automatic_caller(sch_1):page3_ins2875830@discrete.\led.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(690,645)',
+ SECTION='';
+
+PART_NAME
+ J1 'CON19_6_COMP_BERG_2_54_POS_15_CON15':;
+
+SECTION_NUMBER 1
+ '@AUTOMATED_CALLER.AUTOMATIC_CALLER(SCH_1):INS2742832@PCBS1.CON19_6.NORMAL(CHIPS)':
+ C_PATH='@automated_caller.automatic_caller(sch_1):ins2742832@pcbs1.\con19_6.normal\(chips)',
+ P_PATH='@automated_caller.automatic_caller(sch_1):page2_ins2742832@pcbs1.\con19_6.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(245,100)',
+ SECTION='';
+
+PART_NAME
+ J10 'CON4_WS2812_CON4':;
+
+SECTION_NUMBER 1
+ '@AUTOMATED_CALLER.AUTOMATIC_CALLER(SCH_1):INS2864411@CONNECTOR.CON4.NORMAL(CHIPS)':
+ C_PATH='@automated_caller.automatic_caller(sch_1):ins2864411@connector.\con4.normal\(chips)',
+ P_PATH='@automated_caller.automatic_caller(sch_1):page3_ins2864411@connector.\con4.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(70,145)',
+ SECTION='';
+
+PART_NAME
+ J11 'CON4_WS2812_CON4':;
+
+SECTION_NUMBER 1
+ '@AUTOMATED_CALLER.AUTOMATIC_CALLER(SCH_1):INS2865367@CONNECTOR.CON4.NORMAL(CHIPS)':
+ C_PATH='@automated_caller.automatic_caller(sch_1):ins2865367@connector.\con4.normal\(chips)',
+ P_PATH='@automated_caller.automatic_caller(sch_1):page3_ins2865367@connector.\con4.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(285,150)',
+ SECTION='';
+
+PART_NAME
+ J12 'CON4_WS2812_CON4':;
+
+SECTION_NUMBER 1
+ '@AUTOMATED_CALLER.AUTOMATIC_CALLER(SCH_1):INS2865657@CONNECTOR.CON4.NORMAL(CHIPS)':
+ C_PATH='@automated_caller.automatic_caller(sch_1):ins2865657@connector.\con4.normal\(chips)',
+ P_PATH='@automated_caller.automatic_caller(sch_1):page3_ins2865657@connector.\con4.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(505,150)',
+ SECTION='';
+
+PART_NAME
+ J13 'CON4_WS2812_CON4':;
+
+SECTION_NUMBER 1
+ '@AUTOMATED_CALLER.AUTOMATIC_CALLER(SCH_1):INS2865962@CONNECTOR.CON4.NORMAL(CHIPS)':
+ C_PATH='@automated_caller.automatic_caller(sch_1):ins2865962@connector.\con4.normal\(chips)',
+ P_PATH='@automated_caller.automatic_caller(sch_1):page3_ins2865962@connector.\con4.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(715,150)',
+ SECTION='';
+
+PART_NAME
+ J14 'CON4_WS2812_CON4':;
+
+SECTION_NUMBER 1
+ '@AUTOMATED_CALLER.AUTOMATIC_CALLER(SCH_1):INS2866275@CONNECTOR.CON4.NORMAL(CHIPS)':
+ C_PATH='@automated_caller.automatic_caller(sch_1):ins2866275@connector.\con4.normal\(chips)',
+ P_PATH='@automated_caller.automatic_caller(sch_1):page3_ins2866275@connector.\con4.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(935,150)',
+ SECTION='';
+
+PART_NAME
+ J15 'CON4_WS2812_CON4':;
+
+SECTION_NUMBER 1
+ '@AUTOMATED_CALLER.AUTOMATIC_CALLER(SCH_1):INS2873515@CONNECTOR.CON4.NORMAL(CHIPS)':
+ C_PATH='@automated_caller.automatic_caller(sch_1):ins2873515@connector.\con4.normal\(chips)',
+ P_PATH='@automated_caller.automatic_caller(sch_1):page3_ins2873515@connector.\con4.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(70,375)',
+ SECTION='';
+
+PART_NAME
+ J16 'CON4_WS2812_CON4':;
+
+SECTION_NUMBER 1
+ '@AUTOMATED_CALLER.AUTOMATIC_CALLER(SCH_1):INS2873847@CONNECTOR.CON4.NORMAL(CHIPS)':
+ C_PATH='@automated_caller.automatic_caller(sch_1):ins2873847@connector.\con4.normal\(chips)',
+ P_PATH='@automated_caller.automatic_caller(sch_1):page3_ins2873847@connector.\con4.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(295,375)',
+ SECTION='';
+
+PART_NAME
+ J17 'CON4_WS2812_CON4':;
+
+SECTION_NUMBER 1
+ '@AUTOMATED_CALLER.AUTOMATIC_CALLER(SCH_1):INS2874191@CONNECTOR.CON4.NORMAL(CHIPS)':
+ C_PATH='@automated_caller.automatic_caller(sch_1):ins2874191@connector.\con4.normal\(chips)',
+ P_PATH='@automated_caller.automatic_caller(sch_1):page3_ins2874191@connector.\con4.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(525,375)',
+ SECTION='';
+
+PART_NAME
+ J18 'PJ-002B_PJ-002B_CUI_JACK_PJ-002B':;
+
+SECTION_NUMBER 1
+ '@AUTOMATED_CALLER.AUTOMATIC_CALLER(SCH_1):INS2863964@ORCADCAPTUREOLB.PJ-002B.NORMAL(SCH_1)':
+ C_PATH='@automated_caller.automatic_caller(sch_1):ins2863964@orcadcaptureolb.\pj-002b.normal\(sch_1)',
+ P_PATH='@automated_caller.automatic_caller(sch_1):page3_ins2863964@orcadcaptureolb.\pj-002b.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(35,605)',
+ SECTION='';
+
+PART_NAME
+ J2 'CON19_5_COMP_BERG_2_54_POS_15_CON15':;
+
+SECTION_NUMBER 1
+ '@AUTOMATED_CALLER.AUTOMATIC_CALLER(SCH_1):INS2742790@PCBS1.CON19_5.NORMAL(CHIPS)':
+ C_PATH='@automated_caller.automatic_caller(sch_1):ins2742790@pcbs1.\con19_5.normal\(chips)',
+ P_PATH='@automated_caller.automatic_caller(sch_1):page2_ins2742790@pcbs1.\con19_5.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(784,86)',
+ SECTION='';
+
+PART_NAME
+ J3 'CON3_SWITCH_SLIDING_SW':;
+
+SECTION_NUMBER 1
+ '@AUTOMATED_CALLER.AUTOMATIC_CALLER(SCH_1):INS2875553@CONNECTOR.CON3.NORMAL(CHIPS)':
+ C_PATH='@automated_caller.automatic_caller(sch_1):ins2875553@connector.\con3.normal\(chips)',
+ P_PATH='@automated_caller.automatic_caller(sch_1):page2_ins2875553@connector.\con3.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(740,145)',
+ SECTION='';
+
+PART_NAME
+ J4 'CON6_MICRO_SD_C_MICRO SD CARD ADAPTER':;
+
+SECTION_NUMBER 1
+ '@AUTOMATED_CALLER.AUTOMATIC_CALLER(SCH_1):INS2855129@CONNECTOR.CON6.NORMAL(CHIPS)':
+ C_PATH='@automated_caller.automatic_caller(sch_1):ins2855129@connector.\con6.normal\(chips)',
+ P_PATH='@automated_caller.automatic_caller(sch_1):page2_ins2855129@connector.\con6.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(55,465)',
+ SECTION='';
+
+PART_NAME
+ J5 'CON9_5_CUI_MSD-1-A_CON9':;
+
+SECTION_NUMBER 1
+ '@AUTOMATED_CALLER.AUTOMATIC_CALLER(SCH_1):INS2867291@AUTOMATED_CALLER.CON9_5.NORMAL(CHIPS)':
+ C_PATH='@automated_caller.automatic_caller(sch_1):ins2867291@automated_caller.\con9_5.normal\(chips)',
+ P_PATH='@automated_caller.automatic_caller(sch_1):page2_ins2867291@automated_caller.\con9_5.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(345,445)',
+ SECTION='';
+
+PART_NAME
+ J6 'CON5_SIM800C_GSM':;
+
+SECTION_NUMBER 1
+ '@AUTOMATED_CALLER.AUTOMATIC_CALLER(SCH_1):INS2855648@CONNECTOR.CON5.NORMAL(CHIPS)':
+ C_PATH='@automated_caller.automatic_caller(sch_1):ins2855648@connector.\con5.normal\(chips)',
+ P_PATH='@automated_caller.automatic_caller(sch_1):page2_ins2855648@connector.\con5.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(565,460)',
+ SECTION='';
+
+PART_NAME
+ J7 'CON4_2_OLED_0_96_WMH_OLED':;
+
+SECTION_NUMBER 1
+ '@AUTOMATED_CALLER.AUTOMATIC_CALLER(SCH_1):INS2854121@TUV_COVEYOR.CON4_2.NORMAL(CHIPS)':
+ C_PATH='@automated_caller.automatic_caller(sch_1):ins2854121@tuv_coveyor.\con4_2.normal\(chips)',
+ P_PATH='@automated_caller.automatic_caller(sch_1):page2_ins2854121@tuv_coveyor.\con4_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(755,490)',
+ SECTION='';
+
+PART_NAME
+ J8 'CON9_CBOX_9_CON9':;
+
+SECTION_NUMBER 1
+ '@AUTOMATED_CALLER.AUTOMATIC_CALLER(SCH_1):INS2861119@CONNECTOR.CON9.NORMAL(CHIPS)':
+ C_PATH='@automated_caller.automatic_caller(sch_1):ins2861119@connector.\con9.normal\(chips)',
+ P_PATH='@automated_caller.automatic_caller(sch_1):page2_ins2861119@connector.\con9.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(530,620)',
+ SECTION='';
+
+PART_NAME
+ J9 'CON3_WS2812_STRIP_CON3':;
+
+SECTION_NUMBER 1
+ '@AUTOMATED_CALLER.AUTOMATIC_CALLER(SCH_1):INS2859744@CONNECTOR.CON3.NORMAL(CHIPS)':
+ C_PATH='@automated_caller.automatic_caller(sch_1):ins2859744@connector.\con3.normal\(chips)',
+ P_PATH='@automated_caller.automatic_caller(sch_1):page2_ins2859744@connector.\con3.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(90,675)',
+ SECTION='';
+
+PART_NAME
+ L1 'INDUCTOR_TH_INDUCTOR_100UH/TH':;
+
+SECTION_NUMBER 1
+ '@AUTOMATED_CALLER.AUTOMATIC_CALLER(SCH_1):INS2860852@DISCRETE.INDUCTOR.NORMAL(CHIPS)':
+ C_PATH='@automated_caller.automatic_caller(sch_1):ins2860852@discrete.\inductor.normal\(chips)',
+ P_PATH='@automated_caller.automatic_caller(sch_1):page3_ins2860852@discrete.\inductor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(550,625)',
+ SECTION='';
+
+PART_NAME
+ R1 'R_SMD_RES_0805_23_4.7K/0805':;
+
+SECTION_NUMBER 1
+ '@AUTOMATED_CALLER.AUTOMATIC_CALLER(SCH_1):INS2854089@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@automated_caller.automatic_caller(sch_1):ins2854089@analog.\r.normal\(chips)',
+ P_PATH='@automated_caller.automatic_caller(sch_1):page2_ins2854089@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(790,460)',
+ SECTION='';
+
+PART_NAME
+ R10 'RESISTOR_SMD_RES_0805_23_100E/0805':;
+
+SECTION_NUMBER 1
+ '@AUTOMATED_CALLER.AUTOMATIC_CALLER(SCH_1):INS2873927@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@automated_caller.automatic_caller(sch_1):ins2873927@discrete.\resistor.normal\(chips)',
+ P_PATH='@automated_caller.automatic_caller(sch_1):page3_ins2873927@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(370,430)',
+ SECTION='';
+
+PART_NAME
+ R11 'RESISTOR_SMD_RES_0805_23_100E/0805':;
+
+SECTION_NUMBER 1
+ '@AUTOMATED_CALLER.AUTOMATIC_CALLER(SCH_1):INS2874271@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@automated_caller.automatic_caller(sch_1):ins2874271@discrete.\resistor.normal\(chips)',
+ P_PATH='@automated_caller.automatic_caller(sch_1):page3_ins2874271@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(600,430)',
+ SECTION='';
+
+PART_NAME
+ R12 'RESISTOR_SMD_RES_0805_23_1K/0805':;
+
+SECTION_NUMBER 1
+ '@AUTOMATED_CALLER.AUTOMATIC_CALLER(SCH_1):INS2875727@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@automated_caller.automatic_caller(sch_1):ins2875727@discrete.\resistor.normal\(chips)',
+ P_PATH='@automated_caller.automatic_caller(sch_1):page3_ins2875727@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(660,625)',
+ SECTION='';
+
+PART_NAME
+ R2 'R_SMD_RES_0805_23_4.7K/0805':;
+
+SECTION_NUMBER 1
+ '@AUTOMATED_CALLER.AUTOMATIC_CALLER(SCH_1):INS2854105@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@automated_caller.automatic_caller(sch_1):ins2854105@analog.\r.normal\(chips)',
+ P_PATH='@automated_caller.automatic_caller(sch_1):page2_ins2854105@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(825,460)',
+ SECTION='';
+
+PART_NAME
+ R3 'RESISTOR_SMD_RES_0805_23_330E':;
+
+SECTION_NUMBER 1
+ '@AUTOMATED_CALLER.AUTOMATIC_CALLER(SCH_1):INS2893271@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@automated_caller.automatic_caller(sch_1):ins2893271@discrete.\resistor.normal\(chips)',
+ P_PATH='@automated_caller.automatic_caller(sch_1):page2_ins2893271@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(955,275)',
+ SECTION='';
+
+PART_NAME
+ R5 'RESISTOR_SMD_RES_0805_23_100E/0805':;
+
+SECTION_NUMBER 1
+ '@AUTOMATED_CALLER.AUTOMATIC_CALLER(SCH_1):INS2865447@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@automated_caller.automatic_caller(sch_1):ins2865447@discrete.\resistor.normal\(chips)',
+ P_PATH='@automated_caller.automatic_caller(sch_1):page3_ins2865447@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(360,205)',
+ SECTION='';
+
+PART_NAME
+ R6 'RESISTOR_SMD_RES_0805_23_100E/0805':;
+
+SECTION_NUMBER 1
+ '@AUTOMATED_CALLER.AUTOMATIC_CALLER(SCH_1):INS2865737@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@automated_caller.automatic_caller(sch_1):ins2865737@discrete.\resistor.normal\(chips)',
+ P_PATH='@automated_caller.automatic_caller(sch_1):page3_ins2865737@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(580,205)',
+ SECTION='';
+
+PART_NAME
+ R7 'RESISTOR_SMD_RES_0805_23_100E/0805':;
+
+SECTION_NUMBER 1
+ '@AUTOMATED_CALLER.AUTOMATIC_CALLER(SCH_1):INS2866042@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@automated_caller.automatic_caller(sch_1):ins2866042@discrete.\resistor.normal\(chips)',
+ P_PATH='@automated_caller.automatic_caller(sch_1):page3_ins2866042@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(790,205)',
+ SECTION='';
+
+PART_NAME
+ R8 'RESISTOR_SMD_RES_0805_23_100E/0805':;
+
+SECTION_NUMBER 1
+ '@AUTOMATED_CALLER.AUTOMATIC_CALLER(SCH_1):INS2866355@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@automated_caller.automatic_caller(sch_1):ins2866355@discrete.\resistor.normal\(chips)',
+ P_PATH='@automated_caller.automatic_caller(sch_1):page3_ins2866355@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1010,205)',
+ SECTION='';
+
+PART_NAME
+ R9 'RESISTOR_SMD_RES_0805_23_100E/0805':;
+
+SECTION_NUMBER 1
+ '@AUTOMATED_CALLER.AUTOMATIC_CALLER(SCH_1):INS2873595@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@automated_caller.automatic_caller(sch_1):ins2873595@discrete.\resistor.normal\(chips)',
+ P_PATH='@automated_caller.automatic_caller(sch_1):page3_ins2873595@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(145,430)',
+ SECTION='';
+
+PART_NAME
+ U1 'CON34A_6_MODULE_ESP32_DEVKIT_ESP32 DEV KIT':;
+
+SECTION_NUMBER 1
+ '@AUTOMATED_CALLER.AUTOMATIC_CALLER(SCH_1):INS2886692@IOT_LAB_KIT.CON34A_6.NORMAL(CHIPS)':
+ C_PATH='@automated_caller.automatic_caller(sch_1):ins2886692@iot_lab_kit.\con34a_6.normal\(chips)',
+ P_PATH='@automated_caller.automatic_caller(sch_1):page2_ins2886692@iot_lab_kit.\con34a_6.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(445,202)',
+ SECTION='';
+
+PART_NAME
+ U2 'LM1117_5_SMD_3_3VREGULATOR_LM1117':;
+
+SECTION_NUMBER 1
+ '@AUTOMATED_CALLER.AUTOMATIC_CALLER(SCH_1):INS2864831@ETBR.LM1117_5.NORMAL(CHIPS)':
+ C_PATH='@automated_caller.automatic_caller(sch_1):ins2864831@etbr.\lm1117_5.normal\(chips)',
+ P_PATH='@automated_caller.automatic_caller(sch_1):page3_ins2864831@etbr.\lm1117_5.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(875,395)',
+ SECTION='';
+
+PART_NAME
+ U4 'LM2576/TO_1_REGULATOR_LM2576-12WU_SMD LM2576-5':;
+
+SECTION_NUMBER 1
+ '@AUTOMATED_CALLER.AUTOMATIC_CALLER(SCH_1):INS2893766@SERVO PWM.LM2576/TO_1.NORMAL(CHIPS)':
+ C_PATH='@automated_caller.automatic_caller(sch_1):ins2893766@\servo pwm\.\lm2576/to_1.normal\(chips)',
+ P_PATH='@automated_caller.automatic_caller(sch_1):page3_ins2893766@\servo pwm\.\lm2576/to_1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(380,605)',
+ SECTION='';
+
+END.

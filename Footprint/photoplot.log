@@ -1,0 +1,661 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    ARTWORK LOG                                                      )
+(                                                                     )
+(    Drawing          : gsm.brd                                       )
+(    Software Version : 23.1P001                                      )
+(    Date/Time        : Sat Mar 15 19:12:16 2025                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+
+ ******************************************
+ WARNING: DRC OUT OF DATE on this layout.
+ ******************************************
+
+ ---- Photoplot outline rectangle not found; using drawing extents.
+
+
+
+Results from parameter file ...
+    DEVICE-TYPE           GERBER_RS274X
+    OUTPUT-UNITS          MM
+    FILM-SIZE             2400000 1600000
+    FORMAT                2.5
+    ABORT-ON-ERROR        NO
+    SCALE                 1
+    SUPPRESS-LEAD-ZEROES  YES
+    SUPPRESS-TRAIL-ZEROES NO
+    SUPPRESS-EQUAL        YES
+    UNDEF-APT-CONT        NO
+
+
+
+================================================================
+     PROCESSING FILM < TOP >
+     TO FILE < D:/Apsis Solution/Automated_Caller/Footprint/TOP.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.1000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+    WARNING: Film contains objects with associated DRCs (6).
+           In the design editor view this film and enable visibility for the
+           associated DRC layer. Verify the DRCs are approved exceptions to your rules.
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.10000                                  DARK 
+  CIRCLE     0.40000                                  DARK 
+  CIRCLE     0.50000                                  DARK 
+  CIRCLE     0.70000                                  DARK 
+  CIRCLE     1.00000                                  DARK 
+  CIRCLE     1.00010                                  DARK 
+  CIRCLE     1.10000                                  DARK 
+  CIRCLE     1.50000                                  DARK 
+  CIRCLE     1.60000                                  DARK 
+  CIRCLE     1.70000                                  DARK 
+  CIRCLE     2.50000                                  DARK 
+  CIRCLE     3.00010                                  DARK 
+  CIRCLE     5.00000                                  DARK 
+  SQUARE     1.40000                     0.000 NO     DARK 
+  SQUARE     1.45000                     0.000 NO     DARK 
+  SQUARE     1.50000                     0.000 NO     DARK 
+  SQUARE     1.60000                     0.000 NO     DARK 
+  SQUARE     1.70000                     0.000 NO     DARK 
+  SQUARE     2.00000                     0.000 NO     DARK 
+  RECTANGLE  0.70000     x 1.60000       0.000 NO     DARK 
+  RECTANGLE  1.20000     x 1.80000       0.000 NO     DARK 
+  RECTANGLE  1.20000     x 2.20000       0.000 NO     DARK 
+  RECTANGLE  1.50000     x 0.90000       0.000 NO     DARK 
+  RECTANGLE  1.60000     x 1.50000       0.000 NO     DARK 
+  RECTANGLE  1.60000     x 2.00000       0.000 NO     DARK 
+  RECTANGLE  1.60000     x 2.00000      90.000 NO     DARK 
+  OBLONG     1.30000     x 2.00000       0.000 NO     DARK 
+  OBLONG     1.30000     x 2.00000      90.000 NO     DARK 
+  OBLONG     1.50000     x 2.00000       0.000 NO     DARK 
+  OBLONG     2.00000     x 1.30000       0.000 NO     DARK 
+  OBLONG     2.00000     x 1.30000      90.000 NO     DARK 
+  OBLONG     3.00000     x 3.80000      90.000 NO     DARK 
+  OBLONG     3.80000     x 3.00000      90.000 NO     DARK 
+  OBLONG     5.00000     x 2.00000       0.000 NO     DARK 
+
+     TOP created with warnings
+
+
+================================================================
+     PROCESSING FILM < BOTTOM >
+     TO FILE < D:/Apsis Solution/Automated_Caller/Footprint/BOTTOM.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.1000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.10000                                  DARK 
+  CIRCLE     0.40000                                  DARK 
+  CIRCLE     0.50000                                  DARK 
+  CIRCLE     1.00000                                  DARK 
+  CIRCLE     1.00010                                  DARK 
+  CIRCLE     1.10000                                  DARK 
+  CIRCLE     1.50000                                  DARK 
+  CIRCLE     1.60000                                  DARK 
+  CIRCLE     1.70000                                  DARK 
+  CIRCLE     2.50000                                  DARK 
+  CIRCLE     3.00010                                  DARK 
+  CIRCLE     5.00000                                  DARK 
+  SQUARE     1.40000                     0.000 NO     DARK 
+  SQUARE     1.45000                     0.000 NO     DARK 
+  SQUARE     1.50000                     0.000 NO     DARK 
+  SQUARE     1.60000                     0.000 NO     DARK 
+  SQUARE     1.70000                     0.000 NO     DARK 
+  SQUARE     2.00000                     0.000 NO     DARK 
+  RECTANGLE  0.90000     x 2.70000       0.000 NO     DARK 
+  RECTANGLE  1.60000     x 2.00000       0.000 NO     DARK 
+  RECTANGLE  1.60000     x 2.00000      90.000 NO     DARK 
+  RECTANGLE  2.10000     x 1.70000       0.000 NO     DARK 
+  RECTANGLE  2.10000     x 1.70000      90.000 NO     DARK 
+  RECTANGLE  3.30000     x 2.80000       0.000 NO     DARK 
+  RECTANGLE  4.03860     x 1.04140      90.000 NO     DARK 
+  RECTANGLE  10.74420    x 8.30580       0.000 NO     DARK 
+  OBLONG     1.30000     x 2.00000       0.000 NO     DARK 
+  OBLONG     1.30000     x 2.00000      90.000 NO     DARK 
+  OBLONG     1.50000     x 2.00000       0.000 NO     DARK 
+  OBLONG     2.00000     x 1.30000       0.000 NO     DARK 
+  OBLONG     2.00000     x 1.30000      90.000 NO     DARK 
+  OBLONG     3.00000     x 3.80000      90.000 NO     DARK 
+  OBLONG     3.80000     x 3.00000      90.000 NO     DARK 
+
+     BOTTOM created with warnings
+
+
+================================================================
+     PROCESSING FILM < SOLDERMASK_TOP >
+     TO FILE < D:/Apsis Solution/Automated_Caller/Footprint/SOLDERMASK_TOP.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.1000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.10000                                  DARK 
+  CIRCLE     0.60000                                  DARK 
+  CIRCLE     1.00010                                  DARK 
+  CIRCLE     1.20000                                  DARK 
+  CIRCLE     1.60000                                  DARK 
+  CIRCLE     1.70000                                  DARK 
+  CIRCLE     2.00000                                  DARK 
+  CIRCLE     2.50000                                  DARK 
+  CIRCLE     3.00010                                  DARK 
+  CIRCLE     5.00000                                  DARK 
+  SQUARE     1.50000                     0.000 NO     DARK 
+  SQUARE     1.55000                     0.000 NO     DARK 
+  SQUARE     1.60000                     0.000 NO     DARK 
+  SQUARE     1.70000                     0.000 NO     DARK 
+  SQUARE     1.80000                     0.000 NO     DARK 
+  SQUARE     2.00000                     0.000 NO     DARK 
+  SQUARE     2.20000                     0.000 NO     DARK 
+  RECTANGLE  0.90000     x 1.80000       0.000 NO     DARK 
+  RECTANGLE  1.40000     x 2.00000       0.000 NO     DARK 
+  RECTANGLE  1.40000     x 2.40000       0.000 NO     DARK 
+  RECTANGLE  1.70000     x 1.10000       0.000 NO     DARK 
+  RECTANGLE  1.80000     x 1.70000       0.000 NO     DARK 
+  RECTANGLE  1.80000     x 2.20000       0.000 NO     DARK 
+  RECTANGLE  1.80000     x 2.20000      90.000 NO     DARK 
+  OBLONG     1.40000     x 2.20000       0.000 NO     DARK 
+  OBLONG     1.40000     x 2.20000      90.000 NO     DARK 
+  OBLONG     1.50000     x 2.00000       0.000 NO     DARK 
+  OBLONG     2.10000     x 1.38000      90.000 NO     DARK 
+  OBLONG     2.10000     x 1.40000       0.000 NO     DARK 
+  OBLONG     3.10000     x 3.90000      90.000 NO     DARK 
+  OBLONG     3.80000     x 3.10000      90.000 NO     DARK 
+  OBLONG     5.20000     x 2.20000       0.000 NO     DARK 
+
+     SOLDERMASK_TOP created with warnings
+
+
+================================================================
+     PROCESSING FILM < SOLDERMASK_BOTTOM >
+     TO FILE < D:/Apsis Solution/Automated_Caller/Footprint/SOLDERMASK_BOTTOM.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.1000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.10000                                  DARK 
+  CIRCLE     0.60000                                  DARK 
+  CIRCLE     1.00010                                  DARK 
+  CIRCLE     1.20000                                  DARK 
+  CIRCLE     1.60000                                  DARK 
+  CIRCLE     1.70000                                  DARK 
+  CIRCLE     2.00000                                  DARK 
+  CIRCLE     2.50000                                  DARK 
+  CIRCLE     3.00010                                  DARK 
+  CIRCLE     5.00000                                  DARK 
+  SQUARE     1.50000                     0.000 NO     DARK 
+  SQUARE     1.55000                     0.000 NO     DARK 
+  SQUARE     1.60000                     0.000 NO     DARK 
+  SQUARE     1.70000                     0.000 NO     DARK 
+  SQUARE     1.80000                     0.000 NO     DARK 
+  SQUARE     2.00000                     0.000 NO     DARK 
+  SQUARE     2.20000                     0.000 NO     DARK 
+  RECTANGLE  1.00000     x 2.80000       0.000 NO     DARK 
+  RECTANGLE  1.80000     x 2.20000       0.000 NO     DARK 
+  RECTANGLE  1.80000     x 2.20000      90.000 NO     DARK 
+  RECTANGLE  2.10000     x 1.70000       0.000 NO     DARK 
+  RECTANGLE  2.10000     x 1.70000      90.000 NO     DARK 
+  RECTANGLE  3.40000     x 2.90000       0.000 NO     DARK 
+  RECTANGLE  4.23860     x 1.24140      90.000 NO     DARK 
+  RECTANGLE  10.94420    x 8.50580       0.000 NO     DARK 
+  OBLONG     1.40000     x 2.20000       0.000 NO     DARK 
+  OBLONG     1.40000     x 2.20000      90.000 NO     DARK 
+  OBLONG     1.50000     x 2.00000       0.000 NO     DARK 
+  OBLONG     2.10000     x 1.38000      90.000 NO     DARK 
+  OBLONG     2.10000     x 1.40000       0.000 NO     DARK 
+  OBLONG     3.10000     x 3.90000      90.000 NO     DARK 
+  OBLONG     3.80000     x 3.10000      90.000 NO     DARK 
+
+     SOLDERMASK_BOTTOM created with warnings
+
+
+================================================================
+     PROCESSING FILM < PASTEMASK_TOP >
+     TO FILE < D:/Apsis Solution/Automated_Caller/Footprint/PASTEMASK_TOP.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.1000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.10000                                  DARK 
+  SQUARE     1.45000                     0.000 NO     DARK 
+  RECTANGLE  0.70000     x 1.60000       0.000 NO     DARK 
+  RECTANGLE  1.20000     x 1.80000       0.000 NO     DARK 
+  RECTANGLE  1.20000     x 2.20000       0.000 NO     DARK 
+  RECTANGLE  1.50000     x 0.90000       0.000 NO     DARK 
+  RECTANGLE  1.60000     x 1.50000       0.000 NO     DARK 
+  OBLONG     3.10000     x 3.90000      90.000 NO     DARK 
+  OBLONG     3.80000     x 3.10000      90.000 NO     DARK 
+
+     PASTEMASK_TOP created with warnings
+
+
+================================================================
+     PROCESSING FILM < PASTEMASK_BOTTOM >
+     TO FILE < D:/Apsis Solution/Automated_Caller/Footprint/PASTEMASK_BOTTOM.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.1000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.10000                                  DARK 
+  SQUARE     1.45000                     0.000 NO     DARK 
+  RECTANGLE  1.10000     x 3.50000       0.000 NO     DARK 
+  RECTANGLE  2.10000     x 1.70000       0.000 NO     DARK 
+  RECTANGLE  2.10000     x 1.70000      90.000 NO     DARK 
+  RECTANGLE  3.50000     x 2.90000       0.000 NO     DARK 
+  RECTANGLE  4.03860     x 1.04140      90.000 NO     DARK 
+  RECTANGLE  6.80530     x 5.24850       0.000 NO     DARK 
+  OBLONG     3.10000     x 3.90000      90.000 NO     DARK 
+  OBLONG     3.80000     x 3.10000      90.000 NO     DARK 
+
+     PASTEMASK_BOTTOM created with warnings
+
+
+================================================================
+     PROCESSING FILM < SILKSCREEN_TOP >
+     TO FILE < D:/Apsis Solution/Automated_Caller/Footprint/SILKSCREEN_TOP.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.1000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+    WARNING: text composed 0 width line found at (2.3350 -57.5400)
+           ... using undefined line width of 0.1000
+
+    WARNING: 0 width line found at (1.8270 -45.2000)
+           ... using undefined line width of 0.1000
+
+    WARNING: Multiple 0 width lines; all will be treated the same as the first.
+           ... using undefined line width of 0.1000
+
+    WARNING: text having Multiple 0 width lines; all will be treated the same as the first.
+           ... using undefined line width of 0.1000
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.10000                                  DARK 
+  CIRCLE     0.12700                                  DARK 
+  CIRCLE     0.15240                                  DARK 
+  CIRCLE     0.20000                                  DARK 
+  CIRCLE     0.30000                                  DARK 
+
+     SILKSCREEN_TOP created with warnings
+
+
+================================================================
+     PROCESSING FILM < SILKSCREEN_BOTTOM >
+     TO FILE < D:/Apsis Solution/Automated_Caller/Footprint/SILKSCREEN_BOTTOM.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.1000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+    WARNING: Arc segment with end points of
+	(57.95, -50.18) and (56.87 -51.07) converted to a line.
+	Its center location (140.12 -151.54) is too large for
+	specified integer accuracy of 2 places.
+
+    WARNING: Arc segment with end points of
+	(58.34, -58.49) and (58.34 -59.25) converted to a line.
+	Its center location (232.14 -58.50) is too large for
+	specified integer accuracy of 2 places.
+
+    WARNING: Arc segment with end points of
+	(56.80, -57.61) and (56.80 -56.68) converted to a line.
+	Its center location (-208.67 -57.63) is too large for
+	specified integer accuracy of 2 places.
+
+    WARNING: Arc segment with end points of
+	(57.12, -56.66) and (57.12 -57.58) converted to a line.
+	Its center location (306.61 -57.58) is too large for
+	specified integer accuracy of 2 places.
+
+    WARNING: Arc segment with end points of
+	(58.03, -58.22) and (58.03 -57.51) converted to a line.
+	Its center location (213.44 -58.21) is too large for
+	specified integer accuracy of 2 places.
+
+    WARNING: Arc segment with end points of
+	(58.05, -55.50) and (57.37 -54.72) converted to a line.
+	Its center location (272.67 129.75) is too large for
+	specified integer accuracy of 2 places.
+
+    WARNING: Arc segment with end points of
+	(62.58, -50.39) and (63.32 -51.23) converted to a line.
+	Its center location (-66.45 -162.98) is too large for
+	specified integer accuracy of 2 places.
+
+    WARNING: Arc segment with end points of
+	(58.89, -46.68) and (60.05 -45.58) converted to a line.
+	Its center location (-37.01 55.83) is too large for
+	specified integer accuracy of 2 places.
+
+    WARNING: Arc segment with end points of
+	(54.60, -42.12) and (55.63 -43.31) converted to a line.
+	Its center location (-338.91 -383.43) is too large for
+	specified integer accuracy of 2 places.
+
+    WARNING: Arc segment with end points of
+	(51.21, -48.58) and (50.29 -47.50) converted to a line.
+	Its center location (272.88 140.15) is too large for
+	specified integer accuracy of 2 places.
+
+    WARNING: Arc segment with end points of
+	(50.29, -47.50) and (49.34 -46.37) converted to a line.
+	Its center location (477.01 312.26) is too large for
+	specified integer accuracy of 2 places.
+
+    WARNING: Arc segment with end points of
+	(53.69, -58.79) and (53.69 -59.49) converted to a line.
+	Its center location (-56.17 -59.48) is too large for
+	specified integer accuracy of 2 places.
+
+    WARNING: Arc segment with end points of
+	(67.12, -66.02) and (67.97 -66.02) converted to a line.
+	Its center location (66.83 -174.25) is too large for
+	specified integer accuracy of 2 places.
+
+    WARNING: Arc segment with end points of
+	(67.60, -65.21) and (66.88 -64.81) converted to a line.
+	Its center location (136.38 61.18) is too large for
+	specified integer accuracy of 2 places.
+
+    WARNING: Arc segment with end points of
+	(67.11, -63.70) and (68.51 -63.69) converted to a line.
+	Its center location (68.50 -271.47) is too large for
+	specified integer accuracy of 2 places.
+
+    WARNING: Arc segment with end points of
+	(69.10, -65.18) and (70.03 -65.69) converted to a line.
+	Its center location (-30.69 -248.33) is too large for
+	specified integer accuracy of 2 places.
+
+    WARNING: Arc segment with end points of
+	(69.41, -66.69) and (68.40 -66.69) converted to a line.
+	Its center location (68.38 212.65) is too large for
+	specified integer accuracy of 2 places.
+
+    WARNING: Arc segment with end points of
+	(67.16, -66.68) and (66.68 -66.67) converted to a line.
+	Its center location (71.30 132.68) is too large for
+	specified integer accuracy of 2 places.
+
+    WARNING: Arc segment with end points of
+	(67.44, -60.82) and (68.37 -60.50) converted to a line.
+	Its center location (131.76 -242.30) is too large for
+	specified integer accuracy of 2 places.
+
+    WARNING: Arc segment with end points of
+	(69.58, -60.09) and (70.07 -59.93) converted to a line.
+	Its center location (107.51 -177.00) is too large for
+	specified integer accuracy of 2 places.
+
+    WARNING: Arc segment with end points of
+	(67.02, -58.95) and (68.04 -58.63) converted to a line.
+	Its center location (110.26 -194.65) is too large for
+	specified integer accuracy of 2 places.
+
+    WARNING: Arc segment with end points of
+	(68.04, -58.63) and (68.57 -58.47) converted to a line.
+	Its center location (5.24 143.78) is too large for
+	specified integer accuracy of 2 places.
+
+    WARNING: Arc segment with end points of
+	(68.57, -58.47) and (69.02 -58.33) converted to a line.
+	Its center location (34.15 51.36) is too large for
+	specified integer accuracy of 2 places.
+
+    WARNING: Arc segment with end points of
+	(67.13, -57.41) and (66.73 -57.27) converted to a line.
+	Its center location (111.75 77.73) is too large for
+	specified integer accuracy of 2 places.
+
+    WARNING: Arc segment with end points of
+	(67.78, -54.64) and (66.90 -54.16) converted to a line.
+	Its center location (142.87 83.22) is too large for
+	specified integer accuracy of 2 places.
+
+    WARNING: Arc segment with end points of
+	(67.49, -53.02) and (68.52 -53.02) converted to a line.
+	Its center location (68.52 -193.29) is too large for
+	specified integer accuracy of 2 places.
+
+    WARNING: Arc segment with end points of
+	(68.52, -53.02) and (69.36 -53.02) converted to a line.
+	Its center location (68.53 -219.14) is too large for
+	specified integer accuracy of 2 places.
+
+    WARNING: Arc segment with end points of
+	(69.88, -53.73) and (68.84 -53.72) converted to a line.
+	Its center location (70.19 76.88) is too large for
+	specified integer accuracy of 2 places.
+
+    WARNING: Arc segment with end points of
+	(69.52, -56.03) and (68.44 -56.04) converted to a line.
+	Its center location (66.30 310.83) is too large for
+	specified integer accuracy of 2 places.
+
+    WARNING: Arc segment with end points of
+	(67.22, -56.04) and (66.73 -56.03) converted to a line.
+	Its center location (69.86 147.51) is too large for
+	specified integer accuracy of 2 places.
+
+    WARNING: Arc segment with end points of
+	(66.80, -50.38) and (67.95 -49.98) converted to a line.
+	Its center location (126.17 -218.02) is too large for
+	specified integer accuracy of 2 places.
+
+    WARNING: Arc segment with end points of
+	(67.95, -49.98) and (69.06 -49.60) converted to a line.
+	Its center location (115.99 -188.67) is too large for
+	specified integer accuracy of 2 places.
+
+    WARNING: Arc segment with end points of
+	(70.15, -52.57) and (69.64 -52.41) converted to a line.
+	Its center location (136.77 154.14) is too large for
+	specified integer accuracy of 2 places.
+
+    WARNING: Arc segment with end points of
+	(68.40, -51.99) and (67.41 -51.64) converted to a line.
+	Its center location (144.52 166.92) is too large for
+	specified integer accuracy of 2 places.
+
+    WARNING: Arc segment with end points of
+	(67.43, -46.68) and (68.37 -46.35) converted to a line.
+	Its center location (134.11 -235.45) is too large for
+	specified integer accuracy of 2 places.
+
+    WARNING: Arc segment with end points of
+	(69.58, -45.94) and (70.07 -45.78) converted to a line.
+	Its center location (114.05 -181.65) is too large for
+	specified integer accuracy of 2 places.
+
+    WARNING: Arc segment with end points of
+	(68.44, -48.52) and (66.81 -47.95) converted to a line.
+	Its center location (374.54 833.47) is too large for
+	specified integer accuracy of 2 places.
+
+    WARNING: Arc segment with end points of
+	(67.37, -43.06) and (67.78 -43.27) converted to a line.
+	Its center location (-0.35 -179.44) is too large for
+	specified integer accuracy of 2 places.
+
+    WARNING: Arc segment with end points of
+	(67.75, -38.33) and (68.51 -38.33) converted to a line.
+	Its center location (67.80 -158.97) is too large for
+	specified integer accuracy of 2 places.
+
+    WARNING: Arc segment with end points of
+	(68.41, -35.18) and (69.18 -35.18) converted to a line.
+	Its center location (69.16 -163.34) is too large for
+	specified integer accuracy of 2 places.
+
+    WARNING: Arc segment with end points of
+	(68.14, -61.27) and (67.53 -61.47) converted to a line.
+	Its center location (111.29 -195.84) is too large for
+	specified integer accuracy of 2 places.
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.10000                                  DARK 
+  CIRCLE     0.12700                                  DARK 
+  CIRCLE     0.20000                                  DARK 
+  CIRCLE     0.40000                                  DARK 
+
+     SILKSCREEN_BOTTOM created with warnings
+
+
+================================================================
+     PROCESSING FILM < FABRICATION >
+     TO FILE < D:/Apsis Solution/Automated_Caller/Footprint/FABRICATION.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.1000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.10000                                  DARK 
+
+     FABRICATION created with warnings
+
+
+------------------------------------------------------
+ SUMMARY:
+        TOP created with warnings
+        BOTTOM created with warnings
+        SOLDERMASK_TOP created with warnings
+        SOLDERMASK_BOTTOM created with warnings
+        PASTEMASK_TOP created with warnings
+        PASTEMASK_BOTTOM created with warnings
+        SILKSCREEN_TOP created with warnings
+        SILKSCREEN_BOTTOM created with warnings
+        FABRICATION created with warnings
+
+ ARTWORK had warnings
